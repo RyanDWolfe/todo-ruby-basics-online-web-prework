@@ -11,8 +11,9 @@ def argue
 print "hello"
 end
 
-def greeting
-
+def greeting(greeting, name)
+greeting = "Hi "
+name = "Bob"
 end
 
 def return_a_value
