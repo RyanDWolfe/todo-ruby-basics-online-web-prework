@@ -8,8 +8,8 @@ def assign_variable(value)
 value = "Bob"
 end
 
-def argue
-print "hello"
+def argue(a)
+print a
 end
 
 def greeting(greeting, name)
